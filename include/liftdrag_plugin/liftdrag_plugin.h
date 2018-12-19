@@ -69,7 +69,7 @@ namespace gazebo
     /// where q (dynamic pressure) = 0.5 * rho * v^2
     protected: double cma;
 
-    /// \brief angle of attach when airfoil stalls
+    /// \brief angle of attack when airfoil stalls
     protected: double alphaStall;
 
     /// \brief Cl-alpha rate after stall
